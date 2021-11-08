@@ -1,0 +1,15 @@
+{
+    "name": "vietdang/todolist",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Viet Dang",
+            "email": "dangviet1735@gmail.com"
+        }
+    ],
+    "require": {}
+}
